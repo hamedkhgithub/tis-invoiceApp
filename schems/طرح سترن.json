@@ -1,0 +1,365 @@
+{
+  "planName": "طرح سترن",
+  "items": [
+    {
+      "id": 1,
+      "model": "PS-24V2A",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "model": "PS-24V-1.5",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "model": "TIS-RCU-24R-20Z",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "model": "TIS-RCU-20R-20Z-IP",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "model": "TIS-VLC-12CH-10A",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "model": "TIS-RLY-8CH-16A",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "model": "TIS-VLC-6CH-5A",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "model": "TIS-RLY-4CH-10A",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "model": "TIS-ADS-BUS-3R",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "model": "TIS-DIM-6CH-2A",
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "model": "TIS-DIM-4CH-3A",
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "model": "TIS-DIM-2CH-6A",
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "model": "TIS-DALI-64",
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "model": "TIS-DALI-DM-4C8A",
+      "quantity": 0
+    },
+    {
+      "id": 15,
+      "model": "TIS-DMX-48",
+      "quantity": 0
+    },
+    {
+      "id": 16,
+      "model": "TIS-DMX-DM-4C5A",
+      "quantity": 0
+    },
+    {
+      "id": 17,
+      "model": "TIS-MS-PIR-CM",
+      "quantity": 0
+    },
+    {
+      "id": 18,
+      "model": "TIS-ES-10F-CM",
+      "quantity": 0
+    },
+    {
+      "id": 19,
+      "model": "PIR-CEL-WALL-NC",
+      "quantity": 0
+    },
+    {
+      "id": 20,
+      "model": "IND-MAG-NC",
+      "quantity": 0
+    },
+    {
+      "id": 21,
+      "model": "TIS-IRE-T",
+      "quantity": 0
+    },
+    {
+      "id": 22,
+      "model": "TIS-4Temp",
+      "quantity": 0
+    },
+    {
+      "id": 23,
+      "model": "TIS-AUT-TMR",
+      "quantity": 0
+    },
+    {
+      "id": 24,
+      "model": "TIS-AIR-BUS",
+      "quantity": 0
+    },
+    {
+      "id": 25,
+      "model": "TIS-IP-COM-PORT",
+      "quantity": 0
+    },
+    {
+      "id": 26,
+      "model": "TIS-SAT133",
+      "quantity": 0
+    },
+    {
+      "id": 27,
+      "model": "TIS-SAT101",
+      "quantity": 0
+    },
+    {
+      "id": 28,
+      "model": "TIS-SAT80",
+      "quantity": 0
+    },
+    {
+      "id": 29,
+      "model": "TIS-SAT57",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "model": "TIS-SAT40",
+      "quantity": 0
+    },
+    {
+      "id": 31,
+      "model": "TIS-LUNA-TFT43",
+      "quantity": 0
+    },
+    {
+      "id": 32,
+      "model": "TIS-LUNA-Bedside",
+      "quantity": 3
+    },
+    {
+      "id": 33,
+      "model": "TIS-LUNA-9G",
+      "quantity": 0
+    },
+    {
+      "id": 34,
+      "model": "TIS-IO-AC-4G",
+      "quantity": 0
+    },
+    {
+      "id": 35,
+      "model": "TIS-IO-8G",
+      "quantity": 0
+    },
+    {
+      "id": 36,
+      "model": "TIS-VEN-AC-Bus",
+      "quantity": 0
+    },
+    {
+      "id": 37,
+      "model": "TIS-VEN-6S-Bus",
+      "quantity": 0
+    },
+    {
+      "id": 38,
+      "model": "TIS-VEN-4S-Bus",
+      "quantity": 0
+    },
+    {
+      "id": 39,
+      "model": "TIS-VEN-3S-Bus",
+      "quantity": 0
+    },
+    {
+      "id": 40,
+      "model": "TIS-VEN-2S-Bus",
+      "quantity": 1
+    },
+    {
+      "id": 41,
+      "model": "TIS-MER-8G-PB",
+      "quantity": 0
+    },
+    {
+      "id": 42,
+      "model": "TIS-MER-AC4G-PB",
+      "quantity": 0
+    },
+    {
+      "id": 43,
+      "model": "TIS-ADD-3R-MER",
+      "quantity": 0
+    },
+    {
+      "id": 44,
+      "model": "TIS-MER-1-FRM",
+      "quantity": 0
+    },
+    {
+      "id": 45,
+      "model": "TIS-ADD-3R-5A",
+      "quantity": 3
+    },
+    {
+      "id": 46,
+      "model": "TIS-ADD-2DL-IRE",
+      "quantity": 0
+    },
+    {
+      "id": 47,
+      "model": "TIS-ADD-2DL-IRR",
+      "quantity": 0
+    },
+    {
+      "id": 48,
+      "model": "M3-CURTAIN MOTOR",
+      "quantity": 0
+    },
+    {
+      "id": 49,
+      "model": "2 Meters Rail",
+      "quantity": 0
+    },
+    {
+      "id": 50,
+      "model": "TM Tubular Roller Motor",
+      "quantity": 0
+    },
+    {
+      "id": 51,
+      "model": "2 Meters Tube",
+      "quantity": 0
+    },
+    {
+      "id": 52,
+      "model": "Music Player WC",
+      "quantity": 0
+    },
+    {
+      "id": 53,
+      "model": "AMP-5S1Z-MTX",
+      "quantity": 0
+    },
+    {
+      "id": 54,
+      "model": "TIS-2PL-WF",
+      "quantity": 0
+    },
+    {
+      "id": 55,
+      "model": "Network 4 Zone Audio Player",
+      "quantity": 0
+    },
+    {
+      "id": 56,
+      "model": "Amplifier JX600-8",
+      "quantity": 0
+    },
+    {
+      "id": 57,
+      "model": "Wall 4 inch Touch Player",
+      "quantity": 0
+    },
+    {
+      "id": 58,
+      "model": "Wall 10 inch Touch Player",
+      "quantity": 0
+    },
+    {
+      "id": 59,
+      "model": "CDM-Speaker F9",
+      "quantity": 0
+    },
+    {
+      "id": 60,
+      "model": "CDM-Speaker F15",
+      "quantity": 0
+    },
+    {
+      "id": 61,
+      "model": "CDM-Speaker F21",
+      "quantity": 0
+    },
+    {
+      "id": 62,
+      "model": "TIS-SPK-XC6-FLO",
+      "quantity": 0
+    },
+    {
+      "id": 63,
+      "model": "SPK-XC6-WALL",
+      "quantity": 0
+    },
+    {
+      "id": 64,
+      "model": "TIS-Rock-SPK",
+      "quantity": 0
+    },
+    {
+      "id": 65,
+      "model": "TIS-Cat6E",
+      "quantity": 0
+    },
+    {
+      "id": 66,
+      "model": "AP-CDM-R27A",
+      "quantity": 0
+    },
+    {
+      "id": 67,
+      "model": "AP-CDM-R20B",
+      "quantity": 0
+    },
+    {
+      "id": 68,
+      "model": "AP-CDM-R20A",
+      "quantity": 0
+    },
+    {
+      "id": 69,
+      "model": "AP-ADM-E12S",
+      "quantity": 0
+    },
+    {
+      "id": 70,
+      "model": "VOIP Telephone",
+      "quantity": 0
+    },
+    {
+      "id": 71,
+      "model": "Access Point",
+      "quantity": 0
+    },
+    {
+      "id": 72,
+      "model": "Cisco Switch",
+      "quantity": 0
+    }
+  ]
+}
